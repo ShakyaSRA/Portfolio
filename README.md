@@ -1,9 +1,7 @@
 Project Title: Portfolio- Shakya Abeykoon
 
 Technologies used: 
-    - HTML
-    -Bootstrap
-    -custom css
+    - HTML, Bootstrap, custom css
 
 Bootstrap Features Used:
 
